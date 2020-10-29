@@ -1,5 +1,5 @@
 var CACHE_NAME = "Covid-19 Around the world";
-var urlsToCache = ["/"];
+var urlsToCache = ["https://covid19-around-world.netlify.app"];
 
 // Install a service worker
 self.addEventListener("install", (event) => {

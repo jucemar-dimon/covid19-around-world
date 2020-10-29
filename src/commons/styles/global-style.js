@@ -24,6 +24,7 @@ html,body {
     width:100%;
     background-size:cover;
     background-position:center center;
+    background-attachment:fixed;
 }
 
 .mb-2 {
