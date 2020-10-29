@@ -3,10 +3,10 @@ import { Typography, CardContent } from "../../../components";
 
 export const LabelStyled = styled(Typography)`
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: 1rem;
 `;
 export const ValueStyled = styled(Typography)`
-  font-weight: 400;
+  font-weight: 600;
   font-size: 2rem;
 `;
 

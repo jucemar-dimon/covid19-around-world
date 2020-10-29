@@ -30,6 +30,14 @@ const useStyles = makeStyles((theme) => ({
     fontSize: 22,
     fontWeight: "bold",
   },
+  titleSmall: {
+    fontSize: 16,
+    fontWeight: "bold",
+  },
+
+  titleMoreSmall: {
+    fontSize: 14,
+  },
 }));
 
 function Panel({ updatedAt, onChange, data, country, getCovidData, intl }) {
@@ -77,14 +85,21 @@ function Panel({ updatedAt, onChange, data, country, getCovidData, intl }) {
           )
         }
         title={
-          <Typography color="primary" className={classes.titleLarge}>
-            COVID19 AROUND WORLD
-          </Typography>
+          <>
+            <Typography color="primary" className={classes.titleLarge}>
+              COVID19
+            </Typography>
+            <Typography className={classes.titleSmall}>
+              Around the world
+            </Typography>
+          </>
         }
         subheader={
           <div style={{ display: "flex", alignItems: "center" }}>
             <UpdateIcon fontSize="small" style={{ color: "#67c887" }} />
-            <span>{updatedAt}</span>
+            <Typography className={classes.titleMoreSmall}>
+              {updatedAt}
+            </Typography>
           </div>
         }
       />
