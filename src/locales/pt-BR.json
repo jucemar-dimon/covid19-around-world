@@ -1,0 +1,13 @@
+{
+  "header": {
+    "title": "Selecione o país",
+    "btn-share": "COMPARTILHAR",
+    "btn-copy": "COPIAR"
+  },
+  "number": "{price, number}",
+  "cases": "Total de casos",
+  "todayDeaths": "Óbitos hoje",
+  "todayCases": "Casos hoje",
+  "deaths": "Total de mortos",
+  "recovered": "Total de recuperados"
+}
