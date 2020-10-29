@@ -1,5 +1,5 @@
-import React, { memo, useEffect, useState } from "react";
-import RefreshIcon from "../../../assets/images/refresh.svg";
+import React, { memo } from "react";
+
 import LogoVirus from "../../../assets/images/virus.png";
 import { makeStyles } from "@material-ui/core/styles";
 import ShareIcon from "@material-ui/icons/Share";
@@ -10,7 +10,6 @@ import {
   Card,
   CardHeader,
   Typography,
-  Button,
   Select,
   MenuItem,
   Avatar,
@@ -34,7 +33,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 function Panel({ updatedAt, onChange, data, country, getCovidData, intl }) {
-  const { cases, todayDeaths, recovered, deaths, todayCases } = data;
+  const { recovered } = data;
   const classes = useStyles();
 
   const renderCountries = (country, index) => (
