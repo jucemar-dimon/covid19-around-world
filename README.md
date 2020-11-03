@@ -33,7 +33,8 @@ Repository developed in the module "Developing a Progressive Web Application wit
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/jucemar/covid19-around-world/blob/master/LICENSE) for more information.
-&nbsp;
-&nbsp;
-&nbsp;
+
+<br/>
+
+---
 Made with by Jucemar Dimon  👋  [Get in touch!](https://www.linkedin.com/in/jucemar-dimon/)
