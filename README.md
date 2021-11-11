@@ -34,6 +34,7 @@ Repository developed in the module "Developing a Progressive Web Application wit
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/jucemar/covid19-around-world/blob/master/LICENSE) for more information.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08f73308-19c7-48f6-bc11-fb3e24d40cc8/deploy-status)](https://app.netlify.com/sites/covid19-around-world/deploys)
 
 
 Made with by Jucemar Dimon  👋  [Get in touch!](https://www.linkedin.com/in/jucemar-dimon/)
