@@ -13,7 +13,7 @@ Repository developed in the module "Developing a Progressive Web Application wit
 
 ## :hammer: Technology
 -  <a href="https://reactjs.org">React</a> — A JavaScript library for building user interfaces.
--  <a href="https://dfee.github.io/rbx/">MATERIAL-UI</a> — React component library implemented following [_Material Design_](https://material.io/) standards for faster and easier web development.
+-  <a href="https://github.com/mui-org/material-ui">MATERIAL-UI</a> — React component library implemented following [_Material Design_](https://material.io/) standards for faster and easier web development.
 -  <a href="https://styled-components.com">Styled Component</a> — Library that allows us to write CSS codes inside JavaScript in a practical way.
 -  <a href="https://github.com/alibaba/react-intl-universal">react-intl-universal</a> — React internationalization package developed by Alibaba Group.
 
@@ -24,7 +24,7 @@ Repository developed in the module "Developing a Progressive Web Application wit
 ## :computer: Getting started
 
 -   Clone this repo
--  Enter the folder `react-cryptocurrencies`
+-  Enter the folder `covid19-around-world`
 -  Run `yarn` or `npm install` to install the dependencies
 -  Run `yarn start` or `npm run start`
 
@@ -37,4 +37,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/juce
 [![Netlify Status](https://api.netlify.com/api/v1/badges/08f73308-19c7-48f6-bc11-fb3e24d40cc8/deploy-status)](https://app.netlify.com/sites/covid19-around-world/deploys)
 
 
-Made with by Jucemar Dimon  👋  [Get in touch!](https://www.linkedin.com/in/jucemar-dimon/)
+Made with 💙 by Jucemar Dimon  👋  [Get in touch!](https://www.linkedin.com/in/jucemar-dimon/)
